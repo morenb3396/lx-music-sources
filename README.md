@@ -9,7 +9,3 @@
 | 野草 | [直链](https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/yecao.js) | [镜像](https://gh-proxy.com/https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/yecao.js) |
 | 野花 | [直链](https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/yehua.js) | [镜像](https://gh-proxy.com/https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/yehua.js) |
 | 长青 SVIP v1.3.0 | [直链](https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/changqing-v1.3.js) | [镜像](https://gh-proxy.com/https://raw.githubusercontent.com/morenb3396/lx-music-sources/main/sources/changqing-v1.3.js) |
-
-右键链接选择「复制链接地址」。每次导入一个音源，同时只能启用一个。
-
-镜像由第三方提供，可用性可能变化。
